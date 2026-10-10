@@ -1,0 +1,8 @@
+Level ; flag ; commands
+
+bandit0 : 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR ; cat readme
+bandit1 : PK8fYLZg2hnHSz83plBL1iEPKdD3QToB ; cat ./- (read a dashname file)
+bandit2 : 7ZZ2LFrykP2zEyvBl4m3clcL7tGYJPME ; cat ./--spaces\ in\ this\ filename--
+bandit3 : xzTXq1rDJQVVAzdv5cHq1TQytTWufAMq ; ls - la -> cat ...Hiding-From-You
+bandit4 : 6C7h9GD8M6ai5nr7wo1RonrzFjj9yIrG ; file ./-* -> cat ./-file07
+bandit5 : pXa26xhMWaC2SvDotA4r9EgZkulOeSBW ; find . -type f -size 1033c
